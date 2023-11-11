@@ -13,7 +13,7 @@
  
 - бесплатный генератор голосов. Можно сделать тот самый голос из Русичей против Ящеров [https://cybervoice.io/en/](https://cybervoice.io/en/) 
 
-- проекты со стримов [https://github.com/topics/twitch](https://github.com/topics/twitch)
+- проекты со стримов [https://github.com/visiongirles](https://github.com/visiongirles)
 
 ## План обучения
 HTML -> CSS -> JavaScript -> TypeScript -> React -> Redux
