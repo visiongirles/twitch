@@ -15,7 +15,7 @@
 
 - проекты со стримов [https://github.com/visiongirles](https://github.com/visiongirles)
 
-- обзор мониторов по QHD [ссылка на Google Drive](https://docs.google.com/spreadsheets/d/11BmOUdyBkQDOF7BUleHxYW9Z-Q-9vD9tG_6F0DRrHDM/edit?usp=sharing)
+- обзор QHD мониторов [ссылка на Google Drive](https://docs.google.com/spreadsheets/d/11BmOUdyBkQDOF7BUleHxYW9Z-Q-9vD9tG_6F0DRrHDM/edit?usp=sharing)
 - обзор микрофонов для стрима [ссылка на Google Drive](https://docs.google.com/spreadsheets/d/14So8IZaQGBuA-80F5xij9BWfN1EaWzHagxF9uszBXWA/edit?usp=sharing)
 - обзор вебок для стрими [ссылка на Google Drive](https://docs.google.com/spreadsheets/d/1UbjmeekGGfZ5oBhYYFio-XY5zzmL9swnNicDJEcprfM/edit?usp=sharing)
  
