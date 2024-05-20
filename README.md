@@ -21,3 +21,8 @@
  
 ## План обучения
 HTML✅ -> CSS✅ -> JavaScript✅ -> TypeScript✅ -> React✅ -> Redux Tool Kit✅ -> NextJS
+
+## Проекты
+- [Крестики-нолики](https://github.com/visiongirles/TicTacToe)
+- Мессенджер на примере Telegram: [клиент](https://github.com/visiongirles/Telegram) и [сервер](https://github.com/visiongirles/TelegramServer)
+- Свой HTTP север - [challenge от CodeCrafters](https://github.com/visiongirles/HTTP-Server)
