@@ -5,7 +5,7 @@
 
 - гифки для alert'ов - [https://tenor.com/ru/](https://tenor.com/ru/)
 
-- бесплатные генераторы картинок (красивых 😻): <br/>
+- бесплатные генераторы (красивых 😻) картинок: <br/>
 [https://www.imagine.art/dashboard/tool/from-text](https://www.imagine.art/dashboard/tool/from-text)<br/>
 [https://gencraft.com/generate](https://gencraft.com/generate) 
 
