@@ -8,7 +8,7 @@ HTML✅ -> CSS✅ -> JavaScript✅ -> TypeScript✅ -> React✅ -> Redux Tool Ki
 - [Свой HTTP север](https://github.com/visiongirles/HTTP-Server) - challenge от CodeCrafters
 - [Свой Redis север](https://github.com/visiongirles/Redis-server) - challenge от CodeCrafters
 
-##Полезные ресурсы для стримов:
+## Полезные ресурсы для стримов:
 - код и инструкция к установке анимированной рамки, как у меня на стриме [https://github.com/visiongirles/CustomBorderForTwitch](https://github.com/visiongirles/CustomBorderForTwitch) - 
 сделала Custom Widget для генерации анимированной рамки (как в [https://theowoo.github.io/agbg/#](https://theowoo.github.io/agbg/#)) 
 - гифки для alert'ов - [https://tenor.com/ru/](https://tenor.com/ru/)
