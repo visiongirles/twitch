@@ -25,5 +25,5 @@ HTML✅ -> CSS✅ -> JavaScript✅ -> TypeScript✅ -> React✅ -> Redux Tool Ki
 ## Проекты
 - [Крестики-нолики](https://github.com/visiongirles/TicTacToe)
 - Мессенджер на примере Telegram: [клиент](https://github.com/visiongirles/Telegram) и [сервер](https://github.com/visiongirles/TelegramServer)
-- Свой HTTP север - [challenge от CodeCrafters](https://github.com/visiongirles/HTTP-Server)
-- Свой Redis север - [challenge от CodeCrafters](https://github.com/visiongirles/Redis-server)
+- [Свой HTTP север]((https://github.com/visiongirles/HTTP-Server)) - challenge от CodeCrafters
+- [Свой Redis север]((https://github.com/visiongirles/Redis-server)) - challenge от CodeCrafters
