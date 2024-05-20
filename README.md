@@ -20,4 +20,4 @@
 - обзор вебок для стрими [ссылка на Google Drive](https://docs.google.com/spreadsheets/d/1UbjmeekGGfZ5oBhYYFio-XY5zzmL9swnNicDJEcprfM/edit?usp=sharing)
  
 ## План обучения
-HTML -> CSS -> JavaScript -> TypeScript -> React -> Redux
+HTML✅ -> CSS✅ -> JavaScript✅ -> TypeScript✅ -> React✅ -> Redux Tool Kit✅ -> NextJS
