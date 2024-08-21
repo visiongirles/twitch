@@ -4,9 +4,11 @@ HTML✅ -> CSS✅ -> JavaScript✅ -> TypeScript✅ -> React✅ -> Redux Tool Ki
 
 ## Проекты
 - [Крестики-нолики](https://github.com/visiongirles/TicTacToe)
-- Мессенджер на примере Telegram: [клиент](https://github.com/visiongirles/Telegram) и [сервер](https://github.com/visiongirles/TelegramServer)
-- [Свой HTTP север](https://github.com/visiongirles/HTTP-Server) - challenge от CodeCrafters
-- [Свой Redis север](https://github.com/visiongirles/Redis-server) - challenge от CodeCrafters
+- Свой мессенджер на примере Telegram: [клиент](https://github.com/visiongirles/Telegram) и [сервер](https://github.com/visiongirles/TelegramServer)
+- [Свой HTTP сервер на JavaScript](https://github.com/visiongirles/HTTP-Server) - challenge от CodeCrafters
+- [Свой Redis сервер на TypeScript](https://github.com/visiongirles/Redis-server) - challenge от CodeCrafters
+- [Свой DNS сервер на Go](https://github.com/visiongirles/DNS-server) - challenge от CodeCrafters
+- [Свой интерпретатор на Go](https://github.com/visiongirles/codecrafters-interpreter-go) - challenge от CodeCrafters
 
 ## Полезные ресурсы для стримов:
 - код и инструкция к установке анимированной рамки, как у меня на стриме [https://github.com/visiongirles/CustomBorderForTwitch](https://github.com/visiongirles/CustomBorderForTwitch) - 
